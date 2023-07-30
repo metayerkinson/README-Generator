@@ -63,5 +63,5 @@ THEN I am taken to the corresponding section of the README
 
 ## Contributors
 
-- Name:
-- GitHub:
+- Name:Kinson Metayer
+- GitHub:https://github.com/metayerkinson
